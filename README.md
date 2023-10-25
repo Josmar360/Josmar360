@@ -44,4 +44,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josmar360&" alt="josmar360" /></p>
 
-![snake gif](https://github.com/Josmar360/Josmar360/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Josmar360/Josmar360/blob/output/github-contribution-grid-snake.svg)
