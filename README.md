@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&pause=1000&background=000000F4&center=true&vCenter=true&random=false&width=500&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Josmar+Gustavo+Palomino+Castelan;A+passionate+about+data+analysis)](https://git.io/typing-svg)
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&pause=1000&background=000000F4&center=true&vCenter=true&random=false&width=500&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Josmar+Gustavo+Palomino+Castelan;A+passionate+about+data+analysis" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josmar360&label=Profile%20views&color=0e75b6&style=flat" alt="josmar360" /> </p>
 
