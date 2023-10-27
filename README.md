@@ -1,12 +1,15 @@
 <div align="center">
     <a href=""> <img src="https://komarev.com/ghpvc/?username=josmar360&label=Profile%20views&color=0e75b6&style=flat" alt="josmar360" /> </a>
     <a href="" ><img src="https://img.shields.io/github/followers/josmar360?style=social"></a>
+    <a href="https://twitter.com/Josmar360_YT" ><img src="https://img.shields.io/twitter/follow/Josmar360?style=social"></a>
     <a href="https://discord.gg/KxQU8Jtzm8" ><img src="https://img.shields.io/discord/727302420346044488?style=social&label=Discord&logo=discord"></a>
 </div>
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&pause=1000&background=000000F4&center=true&vCenter=true&random=false&width=500&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Josmar+Gustavo+Palomino+Castelan;A+passionate+about+data+analysis" alt="Typing SVG" /></a>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&pause=1000&background=000000F4&center=true&vCenter=true&random=false&width=500&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Josmar+Gustavo+Palomino+Castelan;A+passionate+about+data+analysis" alt="Typing SVG" /></a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josmar360" alt="josmar360" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josmar360" alt="josmar360" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/josmar360_yt" target="blank"><img src="https://img.shields.io/twitter/follow/josmar360_yt?logo=twitter&style=for-the-badge" alt="josmar360_yt" /></a> </p>
 
