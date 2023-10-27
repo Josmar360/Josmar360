@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Josmar Gustavo Palomino Castelan</h1>
-<h3 align="center">A passionate about data analysis</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&pause=1000&background=000000F4&center=true&vCenter=true&random=false&width=500&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Josmar+Gustavo+Palomino+Castelan;A+passionate+about+data+analysis)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josmar360&label=Profile%20views&color=0e75b6&style=flat" alt="josmar360" /> </p>
 
@@ -7,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/josmar360_yt" target="blank"><img src="https://img.shields.io/twitter/follow/josmar360_yt?logo=twitter&style=for-the-badge" alt="josmar360_yt" /></a> </p>
 
-- 🔭 NASA International Space Applications Challenge [Planetary Tourism Office](https://www.spaceappschallenge.org/2023/find-a-team/team-quaso/?tab=project)
-
 - 🌱 I’m currently learning **Intermediate Python, Unreal**
+
+- 🔭 NASA International Space Applications Challenge [Planetary Tourism Office](https://www.spaceappschallenge.org/2023/find-a-team/team-quaso/?tab=project)
 
 - 👯 Woman Game Jam 2023 [Prometeo Tlacuache](https://pinkchocoball.itch.io/prometeo)
 
