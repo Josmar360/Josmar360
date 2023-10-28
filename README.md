@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://www.gifsanimados.org/cat-lineas-562.htm"><img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0546.gif" width="100%" alt="linea-imagen-animada-0546" /></a>
+    <a href="https://discord.gg/KxQU8Jtzm8"><img src="https://cdn.discordapp.com/attachments/767808155387166740/1167962547874430996/BARRA2.gif?ex=655008e3&is=653d93e3&hm=df74e93158363f7be20ebf06ab0af926999a18418a93f025b182c1fedfb73fbc&" width="100%" alt="linea-imagen-animada-0546" /></a>
 </div>
 
 <a href="https://www.gifsanimados.org/cat-lineas-562.htm"><img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0430.gif"  width="100%" border="0" alt="linea-imagen-animada-0430" /></a>
