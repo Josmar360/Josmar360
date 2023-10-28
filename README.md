@@ -1,8 +1,6 @@
 <div align="center">
-    <a href="https://discord.gg/KxQU8Jtzm8"><img src="https://cdn.discordapp.com/attachments/767808155387166740/1167962547874430996/BARRA2.gif?ex=655008e3&is=653d93e3&hm=df74e93158363f7be20ebf06ab0af926999a18418a93f025b182c1fedfb73fbc&" width="100%" alt="linea-imagen-animada-0546" /></a>
+    <a href="https://discord.gg/KxQU8Jtzm8"><img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167964312090980505/BARRA1.gif?ex=65500a87&is=653d9587&hm=01bd7af5b38c7497bfc597ea8d86309573cd76a6cc19a4d073b2ba28af717943&" width="100%" alt="linea-imagen-animada-0546" /></a>
 </div>
-
-<a href="https://www.gifsanimados.org/cat-lineas-562.htm"><img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0430.gif"  width="100%" border="0" alt="linea-imagen-animada-0430" /></a>
 
 <div align="center">
     <a href=""> <img src="https://komarev.com/ghpvc/?username=josmar360&label=Profile%20views&color=0e75b6&style=flat" alt="josmar360" /> </a>
@@ -13,6 +11,10 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&pause=1000&background=000000F4&center=true&vCenter=true&random=false&width=500&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Josmar+Gustavo+Palomino+Castelan;A+passionate+about+data+analysis" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+    <a href="https://discord.gg/KxQU8Jtzm8"><img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167964312090980505/BARRA1.gif?ex=65500a87&is=653d9587&hm=01bd7af5b38c7497bfc597ea8d86309573cd76a6cc19a4d073b2ba28af717943&" width="100%" alt="linea-imagen-animada-0546" /></a>
 </div>
 
 - 🌱 I’m currently learning **Intermediate Python, Unreal**
