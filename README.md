@@ -32,6 +32,9 @@
 - 📫 How to reach me **josmargustavopalominocastelan@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+<div align="center">
+    <a href="https://discord.gg/KxQU8Jtzm8"><img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167964286119845928/BARRA2.gif?ex=65500a81&is=653d9581&hm=5b947264bd9935ba11ed6a30edd8737b0eab38c294f07814a7488c50d7960e1d&" width="100%" alt="linea-imagen-animada-0546" /></a>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
