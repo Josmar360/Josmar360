@@ -99,4 +99,9 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=josmar360" alt="GitHub Profile Trophy" style="color: #FF0000;" />
     </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=josmar360" alt="josmar360" /></a>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=josmar360&show_icons=true&locale=en&layout=compact" alt="josmar360" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=josmar360&" alt="josmar360" /></p>
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=josmar360&show_icons=true&locale=en" alt="josmar360" /></p>
 </div>
