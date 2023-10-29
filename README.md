@@ -40,16 +40,16 @@
     <h3 align="left" style="color: #FFFF00;">ABOUT ME</h3>
     <img align="right" src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984547166695504/earth-world.gif?ex=65501d60&is=653da860&hm=3ca00b15f7f306c810e3571aca6309097f11062a4ffb904064366ddfdce936b2" width="50%" style="margin-right: 20px" alt="Earth World" />
 
-    **I am a computer science student**
+**I am a computer science student**
 
-    - 🌱 I’m currently learning **Intermediate Python, Unreal**
-    - 🔭 NASA International Space Applications Challenge [Planetary Tourism Office](https://www.spaceappschallenge.org/2023/find-a-team/team-quaso/?tab=project)
-    - 👯 Woman Game Jam 2023 [Prometeo Tlacuache](https://pinkchocoball.itch.io/prometeo)
-    - 🤝 UPIICSOFT community [Portafolio UPIICSOFT](https://github.com/Josmar360/UPIICSOFT)
-    - 👨‍💻 All of my projects are available at [https://github.com/Josmar360](https://github.com/Josmar360)
-    - 💬 Ask me about **Astronomy, SQL, IA**
-    - 📫 How to reach me **josmargustavopalominocastelan@gmail.com**
-    - ⚡ Fun fact **I am funny**
+- 🌱 I’m currently learning **Intermediate Python, Unreal**
+- 🔭 NASA International Space Applications Challenge [Planetary Tourism Office](https://www.spaceappschallenge.org/2023/find-a-team/team-quaso/?tab=project)
+- 👯 Woman Game Jam 2023 [Prometeo Tlacuache](https://pinkchocoball.itch.io/prometeo)
+- 🤝 UPIICSOFT community [Portafolio UPIICSOFT](https://github.com/Josmar360/UPIICSOFT)
+- 👨‍💻 All of my projects are available at [https://github.com/Josmar360](https://github.com/Josmar360)
+- 💬 Ask me about **Astronomy, SQL, IA**
+- 📫 How to reach me **josmargustavopalominocastelan@gmail.com**
+- ⚡ Fun fact **I am funny**
 
 </div>
 
