@@ -13,6 +13,8 @@
 
 <!-- Imagen de portada -->
 
+![Ejercico Factorial](README/2_Ejercicio_Factorial.png)
+
 <p align="center"><a href="https://discord.gg/KxQU8Jtzm8"><img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984097658929172/Imagen_de_portada.gif?ex=65501cf4&is=653da7f4&hm=d70c62fffc4d24b1fd368cd7e8baae04313a529cb1cf0f30e6dd84859094fd84&" alt="Imagen-portada" /></a></p>
 
 <!-- Segunda linea de colores -->
@@ -22,7 +24,7 @@
 
 <!-- Seccion de about me -->
 
-<picture><img src = "https://cdn.discordapp.com/attachments/1167963830056407060/1167984837337038949/Nave_espacial.gif?ex=65501da5&is=653da8a5&hm=ad3ef5b2ff6a9e1b72c87982f161697e82fac36e0600e949c39e0e70d6edfa8b&" width = 40px align="right"></picture><h3 align="right">ABOUT ME</h3>
+<picture><img src = "https://cdn.discordapp.com/attachments/1167963830056407060/1167984837337038949/Nave_espacial.gif?ex=65501da5&is=653da8a5&hm=ad3ef5b2ff6a9e1b72c87982f161697e82fac36e0600e949c39e0e70d6edfa8b&" width = 40px align="left"></picture><h3 align="left">ABOUT ME</h3>
 <img align="right" src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984547166695504/earth-world.gif?ex=65501d60&is=653da860&hm=3ca00b15f7f306c810e3571aca6309097f11062a4ffb904064366ddfdce936b2&" width="50%" style="margin-right: 20px"/>
 
 **I am a computer science student**
