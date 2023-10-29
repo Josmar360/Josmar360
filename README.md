@@ -1,7 +1,9 @@
+<!-- Primera linea de colores -->
 <div align="center">
     <a href="https://discord.gg/KxQU8Jtzm8"><img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167964312090980505/BARRA1.gif?ex=65500a87&is=653d9587&hm=01bd7af5b38c7497bfc597ea8d86309573cd76a6cc19a4d073b2ba28af717943&" width="100%" alt="linea-imagen-animada-0546" /></a>
 </div>
 
+<!-- Badges principales -->
 <div align="center">
     <a href=""> <img src="https://komarev.com/ghpvc/?username=josmar360&label=Profile%20views&color=0e75b6&style=flat" alt="josmar360" /> </a>
     <a href="" ><img src="https://img.shields.io/github/followers/josmar360?style=social"></a>
@@ -9,29 +11,34 @@
     <a href="https://discord.gg/KxQU8Jtzm8" ><img src="https://img.shields.io/discord/727302420346044488?style=social&label=Discord&logo=discord"></a>
 </div>
 
+<!-- Imagen de portada -->
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&pause=1000&background=000000F4&center=true&vCenter=true&random=false&width=500&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Josmar+Gustavo+Palomino+Castelan;A+passionate+about+data+analysis" alt="Typing SVG" /></a>
+    <a href="https://discord.gg/KxQU8Jtzm8"><img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984097658929172/Imagen_de_portada.gif?ex=65501cf4&is=653da7f4&hm=d70c62fffc4d24b1fd368cd7e8baae04313a529cb1cf0f30e6dd84859094fd84&" /></a>
 </div>
 
+<!-- Segunda linea de colores -->
 <div align="center">
     <a href="https://discord.gg/KxQU8Jtzm8"><img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167964312090980505/BARRA1.gif?ex=65500a87&is=653d9587&hm=01bd7af5b38c7497bfc597ea8d86309573cd76a6cc19a4d073b2ba28af717943&" width="100%" alt="linea-imagen-animada-0546" /></a>
 </div>
 
-- 🌱 I’m currently learning **Intermediate Python, Unreal**
+<!-- Seccion de about me -->
 
-- 🔭 NASA International Space Applications Challenge [Planetary Tourism Office](https://www.spaceappschallenge.org/2023/find-a-team/team-quaso/?tab=project)
+<picture><img src = "https://cdn.discordapp.com/attachments/1167963830056407060/1167984837337038949/Nave_espacial.gif?ex=65501da5&is=653da8a5&hm=ad3ef5b2ff6a9e1b72c87982f161697e82fac36e0600e949c39e0e70d6edfa8b&" width = 40px align="right"></picture><h3 align="right">ABOUT ME</h3>
+<img align="right" src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984547166695504/earth-world.gif?ex=65501d60&is=653da860&hm=3ca00b15f7f306c810e3571aca6309097f11062a4ffb904064366ddfdce936b2&" width="50%" style="margin-right: 20px"/>
 
-- 👯 Woman Game Jam 2023 [Prometeo Tlacuache](https://pinkchocoball.itch.io/prometeo)
+<hr align="center">
+    I am a computer science student
+    ----------------------------------
+    - 🌱 I’m currently learning **Intermediate Python, Unreal**
+    - 🔭 NASA International Space Applications Challenge [Planetary Tourism Office](https://www.spaceappschallenge.org/2023/find-a-team/team-quaso/?tab=project)
+    - 👯 Woman Game Jam 2023 [Prometeo Tlacuache](https://pinkchocoball.itch.io/prometeo)
+    - 🤝 UPIICSOFT community [Portafolio UPIICSOFT](https://github.com/Josmar360/UPIICSOFT)
+    - 👨‍💻 All of my projects are available at [https://github.com/Josmar360](https://github.com/Josmar360)
+    - 💬 Ask me about **Astronomy, SQL, IA**
+    - 📫 How to reach me **josmargustavopalominocastelan@gmail.com**
+    - ⚡ Fun fact **I am funny**
+<hr>
 
-- 🤝 UPIICSOFT community [Portafolio UPIICSOFT](https://github.com/Josmar360/UPIICSOFT)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Josmar360](https://github.com/Josmar360)
-
-- 💬 Ask me about **Astronomy, SQL, IA**
-
-- 📫 How to reach me **josmargustavopalominocastelan@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 <div align="center">
     <a href="https://discord.gg/KxQU8Jtzm8"><img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167964286119845928/BARRA2.gif?ex=65500a81&is=653d9581&hm=5b947264bd9935ba11ed6a30edd8737b0eab38c294f07814a7488c50d7960e1d&" width="100%" alt="linea-imagen-animada-0546" /></a>
 </div>
