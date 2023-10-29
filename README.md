@@ -12,10 +12,7 @@
 </div>
 
 <!-- Imagen de portada -->
-
-![Ejercico Factorial](README/2_Ejercicio_Factorial.png)
-
-<p align="center"><a href="https://discord.gg/KxQU8Jtzm8"><img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984097658929172/Imagen_de_portada.gif?ex=65501cf4&is=653da7f4&hm=d70c62fffc4d24b1fd368cd7e8baae04313a529cb1cf0f30e6dd84859094fd84&" alt="Imagen-portada" /></a></p>
+<img align="right" src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984097658929172/Imagen_de_portada.gif?ex=65501cf4&is=653da7f4&hm=d70c62fffc4d24b1fd368cd7e8baae04313a529cb1cf0f30e6dd84859094fd84&" width="50%" style="margin-right: 20px"/>
 
 <!-- Segunda linea de colores -->
 <div align="center">
