@@ -25,7 +25,7 @@
 <!-- Seccion de about me -->
 
 <picture><img src = "https://cdn.discordapp.com/attachments/1167963830056407060/1167984837337038949/Nave_espacial.gif?ex=65501da5&is=653da8a5&hm=ad3ef5b2ff6a9e1b72c87982f161697e82fac36e0600e949c39e0e70d6edfa8b&" width = 40px align="left"></picture><h3 align="left">ABOUT ME</h3>
-<img align="right" src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984547166695504/earth-world.gif?ex=65501d60&is=653da860&hm=3ca00b15f7f306c810e3571aca6309097f11062a4ffb904064366ddfdce936b2&" width="40%" style="margin-right: 20px"/>
+<img align="right" src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984547166695504/earth-world.gif?ex=65501d60&is=653da860&hm=3ca00b15f7f306c810e3571aca6309097f11062a4ffb904064366ddfdce936b2&" width="50%" style="margin-right: 20px"/>
 
 **I am a computer science student**
 
