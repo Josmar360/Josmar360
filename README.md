@@ -13,7 +13,7 @@
 
 <!-- Imagen de portada -->
 
-[!Imagen de portada](README/Portada.gif)
+![Imagen de portada](README/Portada.gif)
 
 <!-- Segunda linea de colores -->
 <div align="center">
