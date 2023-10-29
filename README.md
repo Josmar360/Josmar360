@@ -13,7 +13,7 @@
 
 <!-- Imagen de portada -->
 
-<a href="https://discord.gg/KxQU8Jtzm8"><img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984097658929172/Imagen_de_portada.gif?ex=65501cf4&is=653da7f4&hm=d70c62fffc4d24b1fd368cd7e8baae04313a529cb1cf0f30e6dd84859094fd84&" alt="Imagen de portada" /></a>
+<a href="https://discord.gg/KxQU8Jtzm8"><img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984097658929172/Imagen_de_portada.gif?ex=65501cf4&is=653da7f4&hm=d70c62fffc4d24b1fd368cd7e8baae04313a529cb1cf0f30e6dd84859094fd84&" alt="Imagen de portada" width = 50% height=50% alt="Imagen-portada"/></a>
 
 <!-- Segunda linea de colores -->
 <div align="center">
