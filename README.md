@@ -25,18 +25,15 @@
 <picture><img src = "https://cdn.discordapp.com/attachments/1167963830056407060/1167984837337038949/Nave_espacial.gif?ex=65501da5&is=653da8a5&hm=ad3ef5b2ff6a9e1b72c87982f161697e82fac36e0600e949c39e0e70d6edfa8b&" width = 40px align="right"></picture><h3 align="right">ABOUT ME</h3>
 <img align="right" src="https://cdn.discordapp.com/attachments/1167963830056407060/1167984547166695504/earth-world.gif?ex=65501d60&is=653da860&hm=3ca00b15f7f306c810e3571aca6309097f11062a4ffb904064366ddfdce936b2&" width="50%" style="margin-right: 20px"/>
 
-<hr align="center">
-    I am a computer science student
-    ----------------------------------
-    - 🌱 I’m currently learning **Intermediate Python, Unreal**
-    - 🔭 NASA International Space Applications Challenge [Planetary Tourism Office](https://www.spaceappschallenge.org/2023/find-a-team/team-quaso/?tab=project)
-    - 👯 Woman Game Jam 2023 [Prometeo Tlacuache](https://pinkchocoball.itch.io/prometeo)
-    - 🤝 UPIICSOFT community [Portafolio UPIICSOFT](https://github.com/Josmar360/UPIICSOFT)
-    - 👨‍💻 All of my projects are available at [https://github.com/Josmar360](https://github.com/Josmar360)
-    - 💬 Ask me about **Astronomy, SQL, IA**
-    - 📫 How to reach me **josmargustavopalominocastelan@gmail.com**
-    - ⚡ Fun fact **I am funny**
-<hr>
+I am a computer science student
+- 🌱 I’m currently learning **Intermediate Python, Unreal**
+- 🔭 NASA International Space Applications Challenge [Planetary Tourism Office](https://www.spaceappschallenge.org/2023/find-a-team/team-quaso/?tab=project)
+- 👯 Woman Game Jam 2023 [Prometeo Tlacuache](https://pinkchocoball.itch.io/prometeo)
+- 🤝 UPIICSOFT community [Portafolio UPIICSOFT](https://github.com/Josmar360/UPIICSOFT)
+- 👨‍💻 All of my projects are available at [https://github.com/Josmar360](https://github.com/Josmar360)
+- 💬 Ask me about **Astronomy, SQL, IA**
+- 📫 How to reach me **josmargustavopalominocastelan@gmail.com**
+- ⚡ Fun fact **I am funny**
 
 <div align="center">
     <a href="https://discord.gg/KxQU8Jtzm8"><img src="https://cdn.discordapp.com/attachments/1167963830056407060/1167964286119845928/BARRA2.gif?ex=65500a81&is=653d9581&hm=5b947264bd9935ba11ed6a30edd8737b0eab38c294f07814a7488c50d7960e1d&" width="100%" alt="linea-imagen-animada-0546" /></a>
