@@ -95,6 +95,7 @@
     </a>
 </div>
 
+<h3 align="center" style="color: #800080;">🏆 GitHub Profile Trophy</h3>
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=Josmar360&theme=chalk&row=2&column=3&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Profile Trophy" style="color: #FF0000;" />
